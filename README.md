@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakshat Kashyap
 - 👀 I’m interested in Game Development, AR, VR, Blockchain, Backend and almost any random stuff.
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on games, XR applications.
 - 📫 How to reach me kashyaprakshat@gmail.com
 
